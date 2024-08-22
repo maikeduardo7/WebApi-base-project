@@ -1,0 +1,12 @@
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\bin\Debug\net8.0\WebApi.Data.deps.json
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\bin\Debug\net8.0\WebApi.Data.dll
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\bin\Debug\net8.0\WebApi.Data.pdb
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\obj\Debug\net8.0\WebApi.Data.csproj.AssemblyReference.cache
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\obj\Debug\net8.0\WebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\obj\Debug\net8.0\WebApi.Data.AssemblyInfoInputs.cache
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\obj\Debug\net8.0\WebApi.Data.AssemblyInfo.cs
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\obj\Debug\net8.0\WebApi.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\obj\Debug\net8.0\WebApi.Data.dll
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\obj\Debug\net8.0\refint\WebApi.Data.dll
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\obj\Debug\net8.0\WebApi.Data.pdb
+D:\Projetos\_templates\webapi-base-project\WebApi.Data\obj\Debug\net8.0\ref\WebApi.Data.dll

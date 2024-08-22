@@ -1,0 +1,15 @@
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\bin\Debug\net8.0\WebApi.Business.deps.json
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\bin\Debug\net8.0\WebApi.Business.dll
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\bin\Debug\net8.0\WebApi.Business.pdb
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\bin\Debug\net8.0\WebApi.Data.dll
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\bin\Debug\net8.0\WebApi.Data.pdb
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\WebApi.Business.csproj.AssemblyReference.cache
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\WebApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\WebApi.Business.AssemblyInfoInputs.cache
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\WebApi.Business.AssemblyInfo.cs
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\WebApi.Business.csproj.CoreCompileInputs.cache
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\WebApi.B.65288EAC.Up2Date
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\WebApi.Business.dll
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\refint\WebApi.Business.dll
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\WebApi.Business.pdb
+D:\Projetos\_templates\webapi-base-project\WebApi.Business\obj\Debug\net8.0\ref\WebApi.Business.dll
